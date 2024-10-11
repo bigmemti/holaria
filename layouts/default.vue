@@ -1,10 +1,10 @@
 <script setup lang="ts"></script>
 
-<template>
-  <div>
-    Layout: default
-    <slot />
-  </div>
+<template lang="pug">
+  div 
+    ColorModeButton
+    UButton(to="/") home
+    slot
 </template>
 
 <style scoped></style>
