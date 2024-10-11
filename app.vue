@@ -1,5 +1,5 @@
 <template lang="pug">
-NuxtLoadingIndicator 
-NuxtLayout
-  NuxtPage 
+  NuxtLoadingIndicator 
+  NuxtLayout
+    NuxtPage 
 </template>
